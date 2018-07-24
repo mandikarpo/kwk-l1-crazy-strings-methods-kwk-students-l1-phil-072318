@@ -1,6 +1,6 @@
 # write your method here
 
-def crazy_strings(a,b.tr("s","z").swapcase) 
+def crazy_strings(a,b) 
   
   puts a.upcase.reverse + " " + b.tr("s","z").swapcase
   
