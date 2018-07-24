@@ -5,4 +5,4 @@ def crazy_strings(a,b)
   puts b.tr("s","z").swapcase 
 end
 
-crazy_strings("Hello","Friends")
+crazy_strings("Hello" + "Friends")
